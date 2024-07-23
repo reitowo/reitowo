@@ -1,6 +1,6 @@
 Hi. 👋
 
-I'm a cute anime cat currently sleeping at miHoYo. 
+I'm a cute anime cat from outer universe. 
 
 I spend most of my spare time doing some simple projects helping people around me. 
 
