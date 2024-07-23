@@ -10,4 +10,4 @@ I also contributed to several open source project just for fun:
 
 You may interested about my [projects](https://reito.fun), [bilibili](https://space.bilibili.com/2305653), [lab](https://github.com/reitovo).
 
-![铃当](https://github.com/user-attachments/assets/ab7f42b9-e741-41bd-81df-20ab31679ae7)
+<img width="250" alt="reito" src="https://github.com/user-attachments/assets/84b8af51-aa06-45ba-b81f-621cc8c9a463">
