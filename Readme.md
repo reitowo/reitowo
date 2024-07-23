@@ -1,6 +1,8 @@
 Hi. 👋
 
-I'm a cute anime cat currently sleeping at miHoYo. I spend most of my spare time doing some simple projects helping people around me. 
+I'm a cute anime cat currently sleeping at miHoYo. 
+
+I spend most of my spare time doing some simple projects helping people around me. 
 
 I also contributed to several open source project just for fun:
 - [OBS](https://github.com/obsproject/obs-studio/discussions/3853#discussioncomment-9718414)
