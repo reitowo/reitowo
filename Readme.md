@@ -10,6 +10,8 @@ I also contributed to several open source projects for fun:
 - [Electron](https://github.com/electron/electron/issues?q=author%3Areitowo)
 - [Chromium](https://chromiumdash.appspot.com/commits?user=carolwolfking&platform=Windows)
 - [vcpkg](https://github.com/microsoft/vcpkg/pulls?q=author%3Areitowo)
+- [libuv](https://github.com/libuv/libuv/issues?q=author%3Areitowo)
+- [node](https://github.com/nodejs/node/issues?q=author%3Areitowo)
 
 You may also be interested in my [bilibili](https://space.bilibili.com/2305653), [lab](https://github.com/reitovo).
 
