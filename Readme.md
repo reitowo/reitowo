@@ -15,4 +15,4 @@ I also contributed to several open source projects for fun:
 
 You may also be interested in my [bilibili](https://space.bilibili.com/2305653), [lab](https://github.com/reitovo).
 
-<img width="250" alt="reito" src="https://github.com/user-attachments/assets/84b8af51-aa06-45ba-b81f-621cc8c9a463">
+<img width="250" alt="reito" src="https://github.com/user-attachments/assets/80c63cac-f918-4d42-8f2b-ff2398a4dab5">
