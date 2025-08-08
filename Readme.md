@@ -2,7 +2,7 @@
 
 ## Hi~ 👋
 
-[Projects](https://reito.fun) · [Bilibili](https://space.bilibili.com/2305653) · [Lab](https://github.com/reitovo)
+[Home](https://reito.fun) · [Bilibili](https://space.bilibili.com/2305653) · [Lab](https://github.com/reitovo)
 
 </div>
 
