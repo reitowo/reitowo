@@ -21,10 +21,6 @@ I also contribute to open source for fun:
 - [libuv](https://github.com/libuv/libuv/pulls?q=author%3Areitowo)
 - [Node.js](https://github.com/nodejs/node/pulls?q=author%3Areitowo)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reitowo&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" height="150" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=reitowo&show_icons=true&rank_icon=github&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" height="150" alt="GitHub stats" />
-  <img width="150" alt="reito" src="https://github.com/user-attachments/assets/80c63cac-f918-4d42-8f2b-ff2398a4dab5">
-</p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/reito)
 
 <br/>
