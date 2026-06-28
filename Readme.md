@@ -4,9 +4,7 @@
 
 [Home](https://reito.fun) · [Bilibili](https://space.bilibili.com/2305653) · [Lab](https://github.com/reitovo)
 
-</div>
-
----
+</div> 
 
 I'm a cute anime cat from the outer universe.
 
@@ -21,6 +19,6 @@ I also contribute to open source for fun:
 - [libuv](https://github.com/libuv/libuv/pulls?q=author%3Areitowo)
 - [Node.js](https://github.com/nodejs/node/pulls?q=author%3Areitowo)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/reito)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://buymeacoffee.com/reito) [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/reitowo)](https://githubroast.dev/u/reitowo)
 
 <br/>
